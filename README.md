@@ -19,6 +19,7 @@ Surge 自用配置：https://raw.githubusercontent.com/weigeshen/-/main/Surge/Su
 
 Surge 收藏仓库：https://github.com/stars/weigeshen/lists/surge/
 
+surge 模块集：https://surge.qingr.moe/
 
 一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一
 
