@@ -61,6 +61,8 @@ surge 模块集：https://surge.qingr.moe/
 
 7️⃣可莉的旗帜图标 https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Flag_icon/ColorfulStaticFlag.json
 
+8️⃣EMBY图标集 https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/tubiao.json
+
 下面👇👇👇👇👇👇👇👇是彩色图标分类
 
 ①彩色小图标 https://raw.githubusercontent.com/Orz-3/mini/master/mini.json
